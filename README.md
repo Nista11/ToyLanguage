@@ -7,4 +7,7 @@ Toy Language is a Java-based language interpreter that allows you to perform var
 <b>File I/O</b>: You can perform file input/output operations to read and write data to files.<br><br>
 <b>References</b>: You can allocate heap memory to store values in variables with the help of the <b>new</b> keyword.<br><br>
 <b>Parallel Execution</b>: You can perform parallel execution using the <b>fork</b> keyword which creates a new process.<br><br>
-<b>Barriers</b>: You can synchronize parallel processes using barriers with the help of the <b>NewBarrier</b> keyword.
+<b>Barriers</b>: You can synchronize parallel processes using barriers with the help of the <b>NewBarrier</b> and <b>await</b> keywords.<br><br>
+## Showcase
+![programSelection](https://user-images.githubusercontent.com/42772160/226572083-673395fb-d5ca-4961-b238-c9ad15e0fec8.png)<br><br>
+![currentProgram](https://user-images.githubusercontent.com/42772160/226573160-8fafa519-c87e-441a-8540-c589afb7768f.png)
