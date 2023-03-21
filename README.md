@@ -1,5 +1,5 @@
 # ToyLanguage
-Toy Language is a Java-based language interpreter that allows you to perform various operations like variable declaration, relational, boolean and arithmetic operations, conditionals, loops, file I/O, references, parallel execution and barriers.
+Toy Language is a Java-based language interpreter that allows you to perform various operations like variable declaration, relational, boolean and arithmetic operations, conditionals, loops, file I/O, references, parallel execution and barriers with a GUI built using JavaFX.
 ## Features
 <b>Variable Declaration</b>: You can declare variables with the help of its type keyword followed by the variable name and value.<br><br>
 <b>Relational, Boolean and Arithmetic Operations</b>: You can perform relational, boolean and arithmetic operations on variables and constants.<br><br>
